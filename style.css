@@ -1,0 +1,63 @@
+.container {
+    font-family: cursive;
+    width: 700px;
+    height: 800px;
+  
+    background-color: #797978;
+    /* padding-left: 30px; */
+  }
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    background-color: #ffffff;
+  }
+  
+  #weight-guide {
+    border: dotted black 1px;
+    border-left: 0cap;
+    border-right: 0cap;
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+  .audio{
+    height: 50px;
+    width: 100px;
+  }
+  #results {
+    font-family: cursive;
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
+  #advi {
+    font-family: cursive;
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
+  
+  button {
+    font-family: cursive;
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #fff;
+    padding: 1px 3px 0px 1px;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+  
+    font-size: 25px;
+  }
+  
+  h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+  }
+  
